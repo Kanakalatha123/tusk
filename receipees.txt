@@ -7,7 +7,8 @@ kheer
 pasta
 beans
 pizza
-
+apple 
+banana
 
 
 
